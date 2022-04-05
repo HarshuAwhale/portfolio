@@ -720,12 +720,12 @@ section.project{
 
     .mobile-nav {
         display: initial;
-        width: 100%;
+        width: 83%;
         height: 53%;
         background: rgb(161, 244, 235);
     }
     header {
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 65% 93%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 80% 93%, 0 100%);
         
     }
 
